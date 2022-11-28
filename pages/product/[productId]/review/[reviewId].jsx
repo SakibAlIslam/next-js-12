@@ -7,7 +7,7 @@ const ReviewDetails = () => {
   return (
     <div>
         <h1>
-        Product details of {productId}, Review Details of {reviewId}
+          Product details of {productId}, Review Details of {reviewId}
         </h1>
     </div>
   )
